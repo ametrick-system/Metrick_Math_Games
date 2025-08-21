@@ -16,6 +16,6 @@ First, you need to install python and then the pygame package to your local comp
 
 1. To install the latest version of python, follow the instructions at https://www.python.org/downloads/
 2. To install pygame, run ``pip install pygame`` from your terminal
-3. To run a particular game, download the file from this github, then run ``python3 {name of file}`` in your terminal and it will launch a pygame interactive window!
+3. To run a particular game, download the file from this github, then run ``python3 {name of file}`` in your terminal and it will launch a pygame interactive window (for example: ``python3 balancing_act.py``)
 
 ## Balancing Act!
