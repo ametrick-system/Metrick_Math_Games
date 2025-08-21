@@ -14,7 +14,7 @@ Longer writeups containing detailed directions for each game are in following se
 
 First, you need to install python and then the pygame package to your local computer that you would like to run these games on.
 
-1. To install the latest version of python, follow the instructions [here][https://www.python.org/downloads/]
+1. To install the latest version of python, follow the instructions at [https://www.python.org/downloads/]
 2. To install pygame, run ``pip install pygame`` from your terminal
 3. To run a particular game, download the file from this github, then run ``python3 {name of file}`` in your terminal and it will launch a pygame interactive window!
 
